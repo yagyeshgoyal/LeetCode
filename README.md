@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0001-two-sum) |
+| [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0001-two-sum) |
+| [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/yagyeshgoyal/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -66,4 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+## String
+|  |
+| ------- |
+| [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
+## Counting
+|  |
+| ------- |
+| [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 <!---LeetCode Topics End-->
