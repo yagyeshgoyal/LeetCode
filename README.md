@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Simulation
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
