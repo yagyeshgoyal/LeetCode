@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
@@ -52,10 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Union Find
@@ -134,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/yagyeshgoyal/LeetCode/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
