@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0552-student-attendance-record-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## String
