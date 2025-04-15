@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Design
 |  |
 | ------- |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,4 +223,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
 <!---LeetCode Topics End-->
