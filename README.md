@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/yagyeshgoyal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/yagyeshgoyal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/yagyeshgoyal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yagyeshgoyal/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Randomized
