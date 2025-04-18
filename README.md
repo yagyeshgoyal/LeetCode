@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0394-decode-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/yagyeshgoyal/LeetCode/tree/master/0443-string-compression) |
