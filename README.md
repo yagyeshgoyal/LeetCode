@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1500-count-largest-group](https://github.com/yagyeshgoyal/LeetCode/tree/master/1500-count-largest-group) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1500-count-largest-group](https://github.com/yagyeshgoyal/LeetCode/tree/master/1500-count-largest-group) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yagyeshgoyal/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2050-count-good-numbers) |
