@@ -1,25 +1,17 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        map<char,int>mp;
-        map<char,int>freq;
-
-        for(int i=s.size()-1; i>=0; i--){
-            mp[s[i]] = i;
-            freq[s[i]]++;
+        vector<int>v(26,0);;
+        for(int i=0; i<s.length(); i++){
+            v[s[i]-'a']++;
         }
 
-        int ans = -1;
-        for(auto i : mp){
-            if(freq[i.first] == 1){
-                if(ans == -1){
-                    ans = i.second;
-                }
-                else
-                ans = min(ans,i.second);
+        for(int i=0; i<s.length(); i++){
+            if(v[s[i]-'a'] == 1){
+                return i;
             }
         }
 
-        return ans;
+        return -1;
     }
 };
