@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yagyeshgoyal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/yagyeshgoyal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/yagyeshgoyal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0394-decode-string) |
