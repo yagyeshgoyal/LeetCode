@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/yagyeshgoyal/LeetCode/tree/master/0443-string-compression) |
+| [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
