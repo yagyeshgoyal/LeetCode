@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/yagyeshgoyal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Dynamic Programming
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yagyeshgoyal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
+| [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/0415-add-strings) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 ## Monotonic Stack
 |  |
