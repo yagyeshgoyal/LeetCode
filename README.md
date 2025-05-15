@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3430-count-days-without-meetings](https://github.com/yagyeshgoyal/LeetCode/tree/master/3430-count-days-without-meetings) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Counting
 |  |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Number Theory
 |  |
 | ------- |
