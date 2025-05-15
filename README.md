@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/yagyeshgoyal/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/yagyeshgoyal/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/yagyeshgoyal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
