@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0198-house-robber](https://github.com/yagyeshgoyal/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0238-product-of-array-except-self](https://github.com/yagyeshgoyal/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/yagyeshgoyal/LeetCode/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/yagyeshgoyal/LeetCode/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0552-student-attendance-record-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0552-student-attendance-record-ii) |
