@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
+| [0075-sort-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/0075-sort-colors) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/yagyeshgoyal/LeetCode/tree/master/0198-house-robber) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yagyeshgoyal/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/yagyeshgoyal/LeetCode/tree/master/0443-string-compression) |
 | [0827-expressive-words](https://github.com/yagyeshgoyal/LeetCode/tree/master/0827-expressive-words) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
