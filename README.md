@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2430-number-of-excellent-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2430-number-of-excellent-pairs) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/yagyeshgoyal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/yagyeshgoyal/LeetCode/tree/master/1500-count-largest-group) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2430-number-of-excellent-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2430-number-of-excellent-pairs) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2430-number-of-excellent-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2430-number-of-excellent-pairs) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Design
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/yagyeshgoyal/LeetCode/tree/master/0191-number-of-1-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2430-number-of-excellent-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2430-number-of-excellent-pairs) |
 ## Combinatorics
 |  |
 | ------- |
