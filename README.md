@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0552-student-attendance-record-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0552-student-attendance-record-ii) |
 | [0740-delete-and-earn](https://github.com/yagyeshgoyal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
