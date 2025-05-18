@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/yagyeshgoyal/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2430-number-of-excellent-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2430-number-of-excellent-pairs) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/yagyeshgoyal/LeetCode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/yagyeshgoyal/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/yagyeshgoyal/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Graph
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yagyeshgoyal/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0394-decode-string) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/yagyeshgoyal/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Binary Search
 |  |
 | ------- |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2419-subarray-with-elements-greater-than-varying-threshold](https://github.com/yagyeshgoyal/LeetCode/tree/master/2419-subarray-with-elements-greater-than-varying-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
