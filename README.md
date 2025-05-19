@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3321-type-of-triangle](https://github.com/yagyeshgoyal/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/yagyeshgoyal/LeetCode/tree/master/3430-count-days-without-meetings) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yagyeshgoyal/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2998-count-symmetric-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3321-type-of-triangle](https://github.com/yagyeshgoyal/LeetCode/tree/master/3321-type-of-triangle) |
 | [3548-find-the-count-of-good-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 ## Depth-First Search
 |  |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/yagyeshgoyal/LeetCode/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/yagyeshgoyal/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
