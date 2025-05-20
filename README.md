@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/yagyeshgoyal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/yagyeshgoyal/LeetCode/tree/master/0443-string-compression) |
 | [0827-expressive-words](https://github.com/yagyeshgoyal/LeetCode/tree/master/0827-expressive-words) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/yagyeshgoyal/LeetCode/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/yagyeshgoyal/LeetCode/tree/master/0125-valid-palindrome) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0394-decode-string) |
