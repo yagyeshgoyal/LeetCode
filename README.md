@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/yagyeshgoyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yagyeshgoyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/yagyeshgoyal/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/yagyeshgoyal/LeetCode/tree/master/0217-contains-duplicate) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/yagyeshgoyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/yagyeshgoyal/LeetCode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/yagyeshgoyal/LeetCode/tree/master/0217-contains-duplicate) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/yagyeshgoyal/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/yagyeshgoyal/LeetCode/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/yagyeshgoyal/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/yagyeshgoyal/LeetCode/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/yagyeshgoyal/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yagyeshgoyal/LeetCode/tree/master/0125-valid-palindrome) |
