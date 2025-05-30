@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/yagyeshgoyal/LeetCode/tree/master/0079-word-search) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yagyeshgoyal/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/yagyeshgoyal/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
 ## Sorting
