@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0827-expressive-words](https://github.com/yagyeshgoyal/LeetCode/tree/master/0827-expressive-words) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
+| [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/yagyeshgoyal/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yagyeshgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yagyeshgoyal/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
+| [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Dynamic Programming
 |  |
