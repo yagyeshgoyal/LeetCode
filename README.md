@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yagyeshgoyal/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1656-count-good-triplets](https://github.com/yagyeshgoyal/LeetCode/tree/master/1656-count-good-triplets) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/yagyeshgoyal/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/yagyeshgoyal/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/yagyeshgoyal/LeetCode/tree/master/2793-count-the-number-of-complete-components) |
