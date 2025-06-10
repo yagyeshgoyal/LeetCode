@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-find-the-count-of-good-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/yagyeshgoyal/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1983-maximum-population-year](https://github.com/yagyeshgoyal/LeetCode/tree/master/1983-maximum-population-year) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
 | ------- |
