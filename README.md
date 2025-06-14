@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yagyeshgoyal/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3321-type-of-triangle](https://github.com/yagyeshgoyal/LeetCode/tree/master/3321-type-of-triangle) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/yagyeshgoyal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/yagyeshgoyal/LeetCode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/yagyeshgoyal/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
