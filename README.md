@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1500-count-largest-group](https://github.com/yagyeshgoyal/LeetCode/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yagyeshgoyal/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/yagyeshgoyal/LeetCode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2050-count-good-numbers) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/yagyeshgoyal/LeetCode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yagyeshgoyal/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/yagyeshgoyal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2435-shortest-impossible-sequence-of-rolls](https://github.com/yagyeshgoyal/LeetCode/tree/master/2435-shortest-impossible-sequence-of-rolls) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
