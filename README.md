@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/yagyeshgoyal/LeetCode/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/yagyeshgoyal/LeetCode/tree/master/3430-count-days-without-meetings) |
 ## Heap (Priority Queue)
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/yagyeshgoyal/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1983-maximum-population-year](https://github.com/yagyeshgoyal/LeetCode/tree/master/1983-maximum-population-year) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yagyeshgoyal/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/yagyeshgoyal/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Number Theory
 |  |
