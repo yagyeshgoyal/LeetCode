@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/yagyeshgoyal/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0146-lru-cache](https://github.com/yagyeshgoyal/LeetCode/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/yagyeshgoyal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/yagyeshgoyal/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/yagyeshgoyal/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yagyeshgoyal/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/yagyeshgoyal/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/yagyeshgoyal/LeetCode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/yagyeshgoyal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0242-valid-anagram](https://github.com/yagyeshgoyal/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/yagyeshgoyal/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yagyeshgoyal/LeetCode/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/yagyeshgoyal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
 ## Data Stream
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yagyeshgoyal/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/yagyeshgoyal/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/yagyeshgoyal/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/yagyeshgoyal/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
