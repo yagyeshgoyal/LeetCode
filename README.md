@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2262-solving-questions-with-brainpower](https://github.com/yagyeshgoyal/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/yagyeshgoyal/LeetCode/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
