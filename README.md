@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yagyeshgoyal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0724-find-pivot-index](https://github.com/yagyeshgoyal/LeetCode/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/yagyeshgoyal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/yagyeshgoyal/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/yagyeshgoyal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0740-delete-and-earn](https://github.com/yagyeshgoyal/LeetCode/tree/master/0740-delete-and-earn) |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yagyeshgoyal/LeetCode/tree/master/0011-container-with-most-water) |
 | [0135-candy](https://github.com/yagyeshgoyal/LeetCode/tree/master/0135-candy) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yagyeshgoyal/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/yagyeshgoyal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
