@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/yagyeshgoyal/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/yagyeshgoyal/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/yagyeshgoyal/LeetCode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/yagyeshgoyal/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/yagyeshgoyal/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1983-maximum-population-year](https://github.com/yagyeshgoyal/LeetCode/tree/master/1983-maximum-population-year) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/yagyeshgoyal/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3384-minimum-number-of-operations-to-make-word-k-periodic](https://github.com/yagyeshgoyal/LeetCode/tree/master/3384-minimum-number-of-operations-to-make-word-k-periodic) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/yagyeshgoyal/LeetCode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Stack
