@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/yagyeshgoyal/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3031-construct-product-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/yagyeshgoyal/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [3031-construct-product-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/3031-construct-product-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/yagyeshgoyal/LeetCode/tree/master/1983-maximum-population-year) |
 | [2249-count-the-hidden-sequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3031-construct-product-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/3031-construct-product-matrix) |
 | [3618-find-the-original-typed-string-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3618-find-the-original-typed-string-ii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Randomized
