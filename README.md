@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/yagyeshgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/yagyeshgoyal/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0322-coin-change](https://github.com/yagyeshgoyal/LeetCode/tree/master/0322-coin-change) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/yagyeshgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yagyeshgoyal/LeetCode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/yagyeshgoyal/LeetCode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yagyeshgoyal/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/yagyeshgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3031-construct-product-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/3031-construct-product-matrix) |
 ## Dynamic Programming
