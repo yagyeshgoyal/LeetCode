@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yagyeshgoyal/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yagyeshgoyal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/yagyeshgoyal/LeetCode/tree/master/1656-count-good-triplets) |
+| [1882-process-tasks-using-servers](https://github.com/yagyeshgoyal/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/yagyeshgoyal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1983-maximum-population-year](https://github.com/yagyeshgoyal/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/yagyeshgoyal/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [1882-process-tasks-using-servers](https://github.com/yagyeshgoyal/LeetCode/tree/master/1882-process-tasks-using-servers) |
 | [2161-stock-price-fluctuation](https://github.com/yagyeshgoyal/LeetCode/tree/master/2161-stock-price-fluctuation) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
