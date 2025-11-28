@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0498-diagonal-traverse](https://github.com/yagyeshgoyal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/yagyeshgoyal/LeetCode/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/yagyeshgoyal/LeetCode/tree/master/0415-add-strings) |
+| [0498-diagonal-traverse](https://github.com/yagyeshgoyal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/yagyeshgoyal/LeetCode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/yagyeshgoyal/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yagyeshgoyal/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/yagyeshgoyal/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0212-word-search-ii) |
+| [0498-diagonal-traverse](https://github.com/yagyeshgoyal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/yagyeshgoyal/LeetCode/tree/master/0994-rotting-oranges) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
