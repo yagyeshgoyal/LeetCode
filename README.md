@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0475-heaters](https://github.com/yagyeshgoyal/LeetCode/tree/master/0475-heaters) |
 | [0498-diagonal-traverse](https://github.com/yagyeshgoyal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/yagyeshgoyal/LeetCode/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/yagyeshgoyal/LeetCode/tree/master/0143-reorder-list) |
 | [0202-happy-number](https://github.com/yagyeshgoyal/LeetCode/tree/master/0202-happy-number) |
 | [0443-string-compression](https://github.com/yagyeshgoyal/LeetCode/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/yagyeshgoyal/LeetCode/tree/master/0475-heaters) |
 | [0647-palindromic-substrings](https://github.com/yagyeshgoyal/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0827-expressive-words](https://github.com/yagyeshgoyal/LeetCode/tree/master/0827-expressive-words) |
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/yagyeshgoyal/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/yagyeshgoyal/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/yagyeshgoyal/LeetCode/tree/master/0368-largest-divisible-subset) |
+| [0475-heaters](https://github.com/yagyeshgoyal/LeetCode/tree/master/0475-heaters) |
 | [0539-minimum-time-difference](https://github.com/yagyeshgoyal/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0594-longest-harmonious-subsequence](https://github.com/yagyeshgoyal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0278-first-bad-version](https://github.com/yagyeshgoyal/LeetCode/tree/master/0278-first-bad-version) |
+| [0475-heaters](https://github.com/yagyeshgoyal/LeetCode/tree/master/0475-heaters) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
