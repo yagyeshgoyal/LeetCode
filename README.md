@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yagyeshgoyal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/yagyeshgoyal/LeetCode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yagyeshgoyal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/yagyeshgoyal/LeetCode/tree/master/1656-count-good-triplets) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/yagyeshgoyal/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/yagyeshgoyal/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/yagyeshgoyal/LeetCode/tree/master/0994-rotting-oranges) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yagyeshgoyal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/yagyeshgoyal/LeetCode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3031-construct-product-matrix](https://github.com/yagyeshgoyal/LeetCode/tree/master/3031-construct-product-matrix) |
 ## Dynamic Programming
@@ -547,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0797-rabbits-in-forest](https://github.com/yagyeshgoyal/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/yagyeshgoyal/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yagyeshgoyal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/yagyeshgoyal/LeetCode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/yagyeshgoyal/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
