@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
 | [1293-three-consecutive-odds](https://github.com/yagyeshgoyal/LeetCode/tree/master/1293-three-consecutive-odds) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/yagyeshgoyal/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/yagyeshgoyal/LeetCode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/yagyeshgoyal/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [1019-squares-of-a-sorted-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/yagyeshgoyal/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1483-rank-teams-by-votes](https://github.com/yagyeshgoyal/LeetCode/tree/master/1483-rank-teams-by-votes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yagyeshgoyal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/yagyeshgoyal/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0808-number-of-matching-subsequences](https://github.com/yagyeshgoyal/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0912-random-pick-with-weight](https://github.com/yagyeshgoyal/LeetCode/tree/master/0912-random-pick-with-weight) |
 | [1249-snapshot-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/1249-snapshot-array) |
+| [1300-sum-of-mutated-array-closest-to-target](https://github.com/yagyeshgoyal/LeetCode/tree/master/1300-sum-of-mutated-array-closest-to-target) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/yagyeshgoyal/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/yagyeshgoyal/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/yagyeshgoyal/LeetCode/tree/master/2280-count-good-triplets-in-an-array) |
